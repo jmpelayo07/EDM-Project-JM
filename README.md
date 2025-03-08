@@ -8,4 +8,4 @@ Hi I my name is John Miko F. Pelayo, a first-year BSIS student at City College o
 - High School: Don Jesus Gonzales High School
 - Elementary: Pandacaqui Resettlement Elementary School
 ## My Projects
-- Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](Midterm Task 1/README.md)
+- Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](Midterm%20Task%201/README.md)
