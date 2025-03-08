@@ -8,4 +8,3 @@ Hi I my name is John Miko F. Pelayo
 - Elementary: Pandacaqui Resettlement Elementary School
 ## My Projects
 - Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](Midterm%20Task%201/task1.md)
-- Midterm Lab Task 2:[Data Cleaning and Preparation using Excel](Midterm%20Task%201/task1.md)
