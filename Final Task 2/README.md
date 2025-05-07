@@ -1,17 +1,17 @@
-# Transforming ER Model to Relational Tables
+# Final Lab Task 2 - Transforming ER Model to Relational Tables
 
-## ***Create the Student Table with Fields***
+## ***Student Table***
 
-- username (STRING, VARCHAR(50), PRIMARY KEY)
-  
- image
+![image](https://github.com/user-attachments/assets/35851080-f404-4130-9b6c-5aa5184ccdbc)
 
- ## ***Create the assignment Table with fields***
+## ***Assignment Table***
 
-- shortname (STRING, VARCHAR(50), PRIMARY KEY)
-- due_date (DATE, NOT NULL)
-- url (STRING, VARCHAR(255), NOT NULL)
+![image](https://github.com/user-attachments/assets/6e3754b2-7415-4090-96cc-409dd9a02f9e)
 
-image
+## ***Submission Table***
 
-## 
+![image](https://github.com/user-attachments/assets/366932e7-604b-4791-bacd-1bc3d00896e2)
+
+
+
+
