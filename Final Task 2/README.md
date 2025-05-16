@@ -2,15 +2,27 @@
 
 ## ***Student Table***
 
-![image](https://github.com/user-attachments/assets/35851080-f404-4130-9b6c-5aa5184ccdbc)
+![image](https://github.com/user-attachments/assets/16576d0c-9756-4fea-b535-1fa718e7e924)
+
 
 ## ***Assignment Table***
 
-![image](https://github.com/user-attachments/assets/6e3754b2-7415-4090-96cc-409dd9a02f9e)
+![image](https://github.com/user-attachments/assets/21502898-78fa-48b0-8396-f9ebdee8235d)
+
 
 ## ***Submission Table***
 
-![image](https://github.com/user-attachments/assets/366932e7-604b-4791-bacd-1bc3d00896e2)
+![image](https://github.com/user-attachments/assets/ee40fd85-f30e-4660-8945-95dedf52233d)
+
+
+## ***ERD***
+
+![image](https://github.com/user-attachments/assets/8f56a9e2-9001-449e-b22f-9b4445bfe2ce)
+
+
+## ***Copy***
+
+
 
 
 
